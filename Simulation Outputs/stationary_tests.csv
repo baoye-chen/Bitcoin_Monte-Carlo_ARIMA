@@ -1,0 +1,4 @@
+,Tested Object,Test Statistics,p-value
+0,Daily Close Price,3.3872669783323466,1.0
+1,Differenced Daily Close Price,-9.216125328866593,1.831869758294597e-15
+2,Returns,-9.733914503102685,8.853900358451347e-17
